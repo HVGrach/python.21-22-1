@@ -6,4 +6,4 @@ elif let=='y':
 else:
     print('Согласная')
 
-
+# Evaluation: OK

@@ -9,3 +9,5 @@ for i in range(min, max + 1):  # таблица умножения
     for j in range(min, max + 1):
         print(j * i, end="\t")
     print()
+
+# Evaluation: OK

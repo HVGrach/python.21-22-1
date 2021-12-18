@@ -24,15 +24,17 @@ for flower in itamitam:
 print()
 
 # выведите на консоль те, которые растут в саду, но не растут на лугу
-garden_and_not_meadow = garden_set - meadow_set   #Вычитание
-print("В саду, но не на лугу: ",  end="")
+garden_and_not_meadow = garden_set - meadow_set  # Вычитание
+print("В саду, но не на лугу: ", end="")
 for flower in garden_and_not_meadow:
-   print(flower,  end=" ")
+    print(flower, end=" ")
 print()
 
 # выведите на консоль те, которые растут на лугу, но не растут в саду
-meadow_and_not_garden = meadow_set - garden_set   #Вычитание
-print("В лугу, но не в саду: ",  end="")
+meadow_and_not_garden = meadow_set - garden_set  # Вычитание
+print("В лугу, но не в саду: ", end="")
 for flower in meadow_and_not_garden:
-   print(flower,  end=" ")
+    print(flower, end=" ")
 print()
+
+# Evaluation: OK. Поехали отступы. Отдельный респект за красивый вывод!

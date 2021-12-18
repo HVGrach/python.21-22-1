@@ -35,3 +35,5 @@ sweets = {
     ]
 }
 # Указать надо только по 2 магазина с минимальными ценами
+
+# Evaluation: Nothing to evaluate.

@@ -14,3 +14,5 @@ distances = {}
 # TODO здесь заполнение словаря
 
 print(distances)
+
+# Evaluation: Nothing to evaluate.
